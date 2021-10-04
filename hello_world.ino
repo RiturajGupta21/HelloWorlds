@@ -29,6 +29,6 @@ void loop(){
   if (customKey){
     lcd.clear();
     lcd.setCursor(0, 0); 
-    lcd.print("HELLO WORLD.!");
+    lcd.print("HELLO WORLD!");
   }
 }
