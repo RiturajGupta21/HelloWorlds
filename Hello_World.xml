@@ -1,0 +1,5 @@
+
+<?xml version="1.0"?>
+-<Module> -<ModulePrefs title="Hello World!"> <Require feature="opensocial-0.8"/> </ModulePrefs> -<Content type="html"> 
+<![CDATA[ <!-- HTML and JS content be here, just as if this were the <body> content of a web site --> <h2>Hello world!</h2> <h3>Eric developed this, and is happy to share this valuable intellectual property in open source form.</h3> ]]>
+ </Content> </Module>
